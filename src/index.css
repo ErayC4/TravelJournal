@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.test{
+    width: 256px;
+    height: 512px;
+    object-fit: cover;
+    object-position: center;
+}
